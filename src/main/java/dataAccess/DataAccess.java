@@ -12,7 +12,6 @@ import java.util.ResourceBundle;
 import java.time.LocalDate;
 import java.time.ZoneId;
 
-//import javax.jws.WebMethod;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;

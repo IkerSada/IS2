@@ -206,11 +206,7 @@ public class CreateRideGUI extends JFrame {
 				facade.alertakEguneratu(r);		// GEHITU
 				jLabelMsg.setText(ResourceBundle.getBundle("Etiquetas").getString("CreateRideGUI.RideCreated"));
 
-			} catch (RideMustBeLaterThanTodayException e1) {
-				// TODO Auto-generated catch block
-				jLabelMsg.setText(e1.getMessage());
-			} catch (RideAlreadyExistException e1) {
-				// TODO Auto-generated catch block
+			} catch (RideMustBeLaterThanTodayException | RideAlreadyExistException e1) {
 				jLabelMsg.setText(e1.getMessage());
 			}
 

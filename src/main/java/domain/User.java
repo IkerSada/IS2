@@ -19,7 +19,7 @@ import javax.xml.bind.annotation.XmlSeeAlso;
 @XmlAccessorType(XmlAccessType.FIELD)
 @Entity
 public abstract class User {
-	
+	private static final long serialVersionUID = 1L;
 	private String izena; 
 	private String abizena;
 	private Date jaiotzeData;

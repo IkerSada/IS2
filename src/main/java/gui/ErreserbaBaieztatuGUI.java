@@ -18,10 +18,13 @@ import businessLogic.BLFacade;
 import domain.Bidaiaria;
 import domain.Erreserba;
 
+import java.util.logging.Logger;
+
 
 public class ErreserbaBaieztatuGUI extends JFrame {
 
 	private static final long serialVersionUID = 1L;
+	private static final Logger logger = Logger.getLogger(ErreserbaBaieztatuGUI.class.getName());
 	private JPanel contentPane;
 	private JTable tableErreserbaOnartuak;
 	private JButton btnBaieztatu;
@@ -97,8 +100,8 @@ public class ErreserbaBaieztatuGUI extends JFrame {
 		BLFacade facade = MainGUI.getBusinessLogic();
 		List<Erreserba> erreserbak = facade.getBidaiariarenErreserbak(b);
 		
-		System.out.println(erreserbak);
-
+		logger.info("Erreserbak: " + erreserbak);
+		
 		String[] columnNames = {
 				ResourceBundle.getBundle("Etiquetas").getString("From"),
 				ResourceBundle.getBundle("Etiquetas").getString("To"),

@@ -29,6 +29,7 @@ public class MugimenduakIkusiGUI extends JFrame {
 	private JButton btnAtzera;
 	private JScrollPane scrollPaneErreserbaOnartuak;
 	private DefaultTableModel model;
+	private String etiketa="Etiquetas";
 
 
 
@@ -37,7 +38,7 @@ public class MugimenduakIkusiGUI extends JFrame {
 	 */
 	public MugimenduakIkusiGUI(User u) {
 
-		this.setTitle(ResourceBundle.getBundle("Etiquetas").getString("MugimenduakIkusiGUI.title"));
+		this.setTitle(ResourceBundle.getBundle(etiketa).getString("MugimenduakIkusiGUI.title"));
 
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		if(u instanceof Bidaiaria) {
@@ -62,7 +63,7 @@ public class MugimenduakIkusiGUI extends JFrame {
 
 		loadMugimenduak(u);
 
-		btnAtzera = new JButton(ResourceBundle.getBundle("Etiquetas").getString("Back"));
+		btnAtzera = new JButton(ResourceBundle.getBundle(etiketa).getString("Back"));
 		btnAtzera.setBounds(214, 267, 146, 31);
 		contentPane.add(btnAtzera);
 		btnAtzera.addActionListener(new ActionListener() {
@@ -91,9 +92,9 @@ public class MugimenduakIkusiGUI extends JFrame {
 
 		System.out.println(mugimenduak);
 
-		String[] columnNames = {ResourceBundle.getBundle("Etiquetas").getString("MugimenduakIkusiGUI.MovementNumber"),
+		String[] columnNames = {ResourceBundle.getBundle(etiketa).getString("MugimenduakIkusiGUI.MovementNumber"),
 				// ResourceBundle.getBundle("Etiquetas").getString("MugimenduakIkusiGUI.Balance"),		KENDU
-				ResourceBundle.getBundle("Etiquetas").getString("MugimenduakIkusiGUI.Description")};
+				ResourceBundle.getBundle(etiketa).getString("MugimenduakIkusiGUI.Description")};
 		
 		model = new DefaultTableModel(columnNames, 0);
 

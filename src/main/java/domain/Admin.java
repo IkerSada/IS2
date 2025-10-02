@@ -1,7 +1,7 @@
 package domain;
 
+import java.util.ArrayList;
 import java.util.List;
-import java.util.Vector;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Entity;
@@ -24,7 +24,7 @@ public class Admin {
 
 	@XmlIDREF
 	@OneToMany(fetch=FetchType.EAGER, cascade=CascadeType.PERSIST)
-	private List<Erreklamazioa> jasotakoErreklamazioak = new Vector<Erreklamazioa>();
+	private List<Erreklamazioa> jasotakoErreklamazioak = new ArrayList<Erreklamazioa>();
 
 
 

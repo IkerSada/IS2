@@ -25,7 +25,7 @@ public class Driver extends User implements Serializable {
 
 	@XmlIDREF
 	@OneToMany(fetch=FetchType.EAGER, cascade=CascadeType.PERSIST)  
-	private List<Erreklamazioa> JasotakoErreklamazioak=new Vector<Erreklamazioa>();		// GEHITU
+	private List<Erreklamazioa> jasotakoErreklamazioak=new Vector<Erreklamazioa>();		// GEHITU
 
 
 
@@ -177,18 +177,18 @@ public class Driver extends User implements Serializable {
 
 	// GEHITU
 	public List<Erreklamazioa> getJasotakoErreklamazioak() {
-		return JasotakoErreklamazioak;
+		return jasotakoErreklamazioak;
 	}
 
 	// GEHITU
 	public void setJasotakoErreklamazioak(List<Erreklamazioa> jasotakoErreklamazioak) {
-		JasotakoErreklamazioak = jasotakoErreklamazioak;
+		this.jasotakoErreklamazioak = jasotakoErreklamazioak;
 	}
 	
 	// GEHITU
 	public Erreklamazioa addErreklamazioa(Erreserba e, String deskripzioa, Bidaiaria b, Driver g) { 
 		Erreklamazioa err=new Erreklamazioa(e,deskripzioa,b,g);
-		JasotakoErreklamazioak.add(err);
+		jasotakoErreklamazioak.add(err);
 		return err;
 	}
 
