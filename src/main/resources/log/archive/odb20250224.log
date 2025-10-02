@@ -1,0 +1,5808 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 10:36:03 #1 store] 
+Database 'C:\Users\ehu\Desktop\a\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 2480@U231491
+
+[2025-02-24 10:36:03 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 10:36:03 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 10:36:03 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 10:36:03 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 10:36:03 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 10:36:03 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 10:36:03 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 10:36:03 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 10:36:03 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 10:36:03 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 10:36:03 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 10:36:03 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 10:36:03 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 10:38:42 #1 store] 
+Database 'C:\Users\ehu\Desktop\a\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 6744@U231491
+
+[2025-02-24 10:38:42 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 10:38:42 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 10:38:42 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 10:38:42 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 10:38:42 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 10:38:42 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 10:38:42 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 10:38:42 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 10:38:42 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 10:38:42 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 10:38:42 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 10:38:42 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 10:38:42 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 10:39:07 #1 store] 
+Database 'C:\Users\ehu\Desktop\a\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 19368@U231491
+
+[2025-02-24 10:39:07 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 10:39:07 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 10:39:07 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 10:39:07 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 10:39:07 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 10:39:07 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 10:39:07 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 10:39:07 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 10:39:07 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 10:39:07 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 10:39:07 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 10:39:07 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 10:39:07 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 10:40:16 #1 store] 
+Database 'C:\Users\ehu\Desktop\a\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 18924@U231491
+
+[2025-02-24 10:40:16 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 10:40:16 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 10:40:16 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 10:40:16 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 10:40:16 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 10:40:16 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 10:40:16 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 10:40:16 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 10:40:16 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 10:40:16 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 10:40:16 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 10:40:16 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 10:40:16 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 10:42:57 #1 store] 
+Database 'C:\Users\ehu\Desktop\a\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 19004@U231491
+
+[2025-02-24 10:42:57 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 10:42:57 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 10:42:57 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 10:42:57 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 10:42:57 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 10:42:57 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 10:42:57 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 10:42:57 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 10:42:57 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 10:42:57 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 10:42:57 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 10:42:57 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 10:42:57 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 10:44:05 #1 store] 
+Database 'C:\Users\ehu\Desktop\a\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 19928@U231491
+
+[2025-02-24 10:44:05 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 10:44:05 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 10:44:05 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 10:44:05 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 10:44:05 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 10:44:05 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 10:44:05 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 10:44:05 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 10:44:05 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 10:44:05 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 10:44:05 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 10:44:05 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 10:44:05 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 10:47:38 #1 store] 
+Database 'C:\Users\ehu\Desktop\a\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 18112@U231491
+
+[2025-02-24 10:47:38 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 10:47:38 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 10:47:38 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 10:47:38 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 10:47:38 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 10:47:38 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 10:47:38 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 10:47:38 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 10:47:38 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 10:47:38 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 10:47:38 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 10:47:38 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 10:47:38 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 10:58:15 #1 store] 
+Database 'C:\Users\ehu\Desktop\a\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 16200@U231491
+
+[2025-02-24 10:58:15 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 10:58:15 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 10:58:15 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 10:58:15 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 10:58:15 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 10:58:15 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 10:58:15 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 10:58:15 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 10:58:15 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 10:58:15 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 10:58:15 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 10:58:15 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 10:58:15 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 10:58:37 #1 store] 
+Database 'C:\Users\ehu\Desktop\a\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 3184@U231491
+
+[2025-02-24 10:58:37 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 10:58:37 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 10:58:37 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 10:58:37 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 10:58:37 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 10:58:37 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 10:58:37 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 10:58:37 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 10:58:37 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 10:58:37 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 10:58:37 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 10:58:37 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 10:58:37 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 10:59:16 #1 store] 
+Database 'C:\Users\ehu\Desktop\a\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 12784@U231491
+
+[2025-02-24 10:59:16 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 10:59:16 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 10:59:16 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 10:59:16 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 10:59:16 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 10:59:16 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 10:59:16 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 10:59:16 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 10:59:16 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 10:59:16 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 10:59:16 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 10:59:16 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 10:59:16 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 11:00:21 #1 store] 
+Database 'C:\Users\ehu\Desktop\a\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 15904@U231491
+
+[2025-02-24 11:00:21 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 11:00:21 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 11:00:21 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 11:00:21 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 11:00:21 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 11:00:21 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 11:00:21 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 11:00:21 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 11:00:21 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 11:00:21 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 11:00:21 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 11:00:21 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 11:00:21 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 11:20:02 #1 store] 
+Database 'C:\Users\ehu\Desktop\a\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 15912@U231491
+
+[2025-02-24 11:20:02 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 11:20:02 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 11:20:02 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 11:20:02 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 11:20:02 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 11:20:02 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 11:20:02 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 11:20:02 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 11:20:02 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 11:20:02 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 11:20:02 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 11:20:02 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 11:20:02 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 11:23:11 #1 store] 
+Database 'C:\Users\ehu\Desktop\a\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 19240@U231491
+
+[2025-02-24 11:23:11 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 11:23:11 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 11:23:11 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 11:23:11 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 11:23:11 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 11:23:11 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 11:23:11 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 11:23:11 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 11:23:11 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 11:23:11 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 11:23:11 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 11:23:11 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 11:23:11 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 11:57:29 #1 store] 
+Database 'C:\Users\ehu\Desktop\a\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 11360@U231491
+
+[2025-02-24 11:57:29 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 11:57:29 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 11:57:29 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 11:57:29 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 11:57:29 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 11:57:29 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 11:57:29 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 11:57:29 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 11:57:29 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 11:57:29 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 11:57:29 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 11:57:29 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 11:57:29 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 14:19:27 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 25192@LAPTOP-CF3BRR4L
+
+[2025-02-24 14:19:27 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 14:19:27 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 14:19:27 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 14:19:27 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 14:19:27 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 14:19:27 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 14:19:27 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 14:19:27 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 14:19:27 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 14:19:27 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 14:19:27 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 14:19:27 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 14:19:27 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 14:20:23 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 24852@LAPTOP-CF3BRR4L
+
+[2025-02-24 14:20:23 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 14:20:23 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 14:20:23 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 14:20:23 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 14:20:23 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 14:20:23 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 14:20:23 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 14:20:23 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 14:20:23 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 14:20:23 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 14:20:23 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 14:20:23 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 14:20:23 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 14:22:31 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 16140@LAPTOP-CF3BRR4L
+
+[2025-02-24 14:22:32 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 14:22:32 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 14:22:32 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 14:22:32 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 14:22:32 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 14:22:32 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 14:22:32 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 14:22:32 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 14:22:32 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 14:22:32 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 14:22:32 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 14:22:32 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 14:22:32 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 14:35:26 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 4148@LAPTOP-CF3BRR4L
+
+[2025-02-24 14:35:26 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 14:35:26 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 14:35:26 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 14:35:26 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 14:35:26 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 14:35:26 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 14:35:26 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 14:35:26 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 14:35:26 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 14:35:26 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 14:35:26 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 14:35:26 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 14:35:26 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 14:38:27 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 23620@LAPTOP-CF3BRR4L
+
+[2025-02-24 14:38:27 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 14:38:27 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 14:38:27 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 14:38:27 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 14:38:27 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 14:38:27 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 14:38:27 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 14:38:27 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 14:38:27 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 14:38:27 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 14:38:27 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 14:38:27 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 14:38:27 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 14:38:55 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 2972@LAPTOP-CF3BRR4L
+
+[2025-02-24 14:38:56 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 14:38:56 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 14:38:56 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 14:38:56 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 14:38:56 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 14:38:56 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 14:38:56 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 14:38:56 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 14:38:56 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 14:38:56 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 14:38:56 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 14:38:56 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 14:38:56 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 14:44:52 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 22044@LAPTOP-CF3BRR4L
+
+[2025-02-24 14:44:52 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 14:44:52 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 14:44:52 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 14:44:52 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 14:44:52 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 14:44:52 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 14:44:52 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 14:44:52 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 14:44:52 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 14:44:52 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 14:44:52 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 14:44:52 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 14:44:52 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 14:47:57 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 20672@LAPTOP-CF3BRR4L
+
+[2025-02-24 14:47:58 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 14:47:58 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 14:47:58 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 14:47:58 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 14:47:58 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 14:47:58 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 14:47:58 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 14:47:58 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 14:47:58 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 14:47:58 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 14:47:58 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 14:47:58 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 14:47:58 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 14:48:50 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 20720@LAPTOP-CF3BRR4L
+
+[2025-02-24 14:48:50 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 14:48:50 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 14:48:50 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 14:48:50 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 14:48:50 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 14:48:50 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 14:48:50 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 14:48:50 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 14:48:50 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 14:48:50 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 14:48:50 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 14:48:50 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 14:48:50 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 14:51:47 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 8012@LAPTOP-CF3BRR4L
+
+[2025-02-24 14:51:47 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 14:51:47 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 14:51:47 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 14:51:47 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 14:51:47 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 14:51:47 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 14:51:47 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 14:51:47 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 14:51:47 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 14:51:47 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 14:51:47 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 14:51:47 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 14:51:47 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 14:52:55 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 9932@LAPTOP-CF3BRR4L
+
+[2025-02-24 14:52:55 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 14:52:55 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 14:52:55 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 14:52:55 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 14:52:55 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 14:52:55 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 14:52:55 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 14:52:55 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 14:52:55 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 14:52:55 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 14:52:55 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 14:52:55 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 14:52:55 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 14:58:07 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 11656@LAPTOP-CF3BRR4L
+
+[2025-02-24 14:58:07 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 14:58:07 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 14:58:07 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 14:58:07 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 14:58:07 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 14:58:07 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 14:58:07 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 14:58:07 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 14:58:07 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 14:58:07 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 14:58:07 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 14:58:07 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 14:58:07 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:00:16 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 9784@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:00:16 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:00:16 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:00:16 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:00:16 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:00:16 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:00:16 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:00:16 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:00:16 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:00:16 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:00:16 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:00:17 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:00:17 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:00:17 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:05:24 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 8808@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:05:24 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:05:24 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:05:24 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:05:24 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:05:24 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:05:25 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:05:25 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:05:25 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:05:25 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:05:25 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:05:25 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:05:25 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:05:25 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:06:52 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 5096@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:06:52 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:06:52 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:06:52 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:06:52 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:06:52 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:06:52 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:06:52 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:06:52 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:06:52 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:06:52 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:06:52 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:06:52 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:06:52 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:07:46 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 16836@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:07:46 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:07:46 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:07:46 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:07:46 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:07:46 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:07:46 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:07:46 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:07:46 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:07:46 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:07:46 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:07:46 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:07:46 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:07:46 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:08:07 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 20740@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:08:08 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:08:08 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:08:08 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:08:08 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:08:08 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:08:08 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:08:08 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:08:08 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:08:08 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:08:08 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:08:08 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:08:08 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:08:08 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:10:07 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 10940@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:10:08 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:10:08 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:10:08 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:10:08 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:10:08 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:10:08 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:10:08 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:10:08 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:10:08 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:10:08 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:10:08 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:10:08 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:10:08 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:10:42 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 15368@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:10:42 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:10:42 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:10:42 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:10:42 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:10:42 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:10:42 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:10:42 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:10:42 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:10:42 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:10:42 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:10:42 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:10:42 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:10:42 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:11:05 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 13964@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:11:05 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:11:05 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:11:05 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:11:05 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:11:05 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:11:05 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:11:05 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:11:05 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:11:05 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:11:05 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:11:05 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:11:05 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:11:05 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:11:40 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 8924@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:11:40 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:11:40 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:11:40 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:11:40 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:11:40 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:11:40 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:11:40 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:11:40 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:11:40 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:11:40 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:11:40 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:11:40 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:11:40 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:13:20 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 9388@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:13:20 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:13:20 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:13:20 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:13:20 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:13:20 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:13:20 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:13:20 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:13:20 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:13:20 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:13:20 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:13:20 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:13:20 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:13:20 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:16:16 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 21460@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:16:16 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:16:16 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:16:16 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:16:16 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:16:16 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:16:16 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:16:16 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:16:16 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:16:16 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:16:16 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:16:16 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:16:16 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:16:16 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:19:12 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 21536@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:19:13 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:19:13 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:19:13 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:19:13 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:19:13 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:19:13 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:19:13 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:19:13 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:19:13 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:19:13 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:19:13 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:19:13 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:19:13 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:19:45 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 11860@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:19:45 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:19:45 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:19:45 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:19:45 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:19:45 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:19:45 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:19:45 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:19:45 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:19:45 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:19:45 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:19:45 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:19:45 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:19:45 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:22:02 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 26976@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:22:02 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:22:02 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:22:02 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:22:02 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:22:02 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:22:02 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:22:02 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:22:02 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:22:02 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:22:02 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:22:02 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:22:02 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:22:02 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:22:37 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 8748@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:22:38 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:22:38 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:22:38 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:22:38 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:22:38 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:22:38 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:22:38 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:22:38 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:22:38 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:22:38 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:22:38 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:22:38 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:22:38 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:27:14 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 12164@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:27:14 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:27:14 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:27:14 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:27:14 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:27:14 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:27:14 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:27:14 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:27:14 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:27:14 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:27:14 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:27:14 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:27:14 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:27:14 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:27:54 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 19272@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:27:55 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:27:55 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:27:55 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:27:55 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:27:55 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:27:55 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:27:55 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:27:55 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:27:55 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:27:55 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:27:55 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:27:55 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:27:55 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:30:32 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 26160@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:30:32 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:30:32 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:30:32 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:30:32 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:30:32 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:30:32 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:30:32 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:30:32 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:30:32 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:30:32 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:30:32 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:30:32 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:30:32 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:31:34 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 1296@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:31:34 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:31:34 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:31:34 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:31:34 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:31:34 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:31:34 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:31:34 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:31:34 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:31:34 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:31:34 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:31:34 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:31:34 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:31:34 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:37:42 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 18300@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:37:42 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:37:42 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:37:42 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:37:42 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:37:42 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:37:42 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:37:42 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:37:42 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:37:42 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:37:42 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:37:42 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:37:42 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:37:42 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:41:10 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 10560@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:41:10 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:41:10 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:41:10 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:41:10 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:41:10 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:41:10 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:41:10 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:41:10 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:41:10 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:41:10 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:41:10 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:41:10 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:41:10 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:42:10 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 3460@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:42:10 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:42:10 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:42:10 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:42:10 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:42:10 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:42:10 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:42:10 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:42:10 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:42:10 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:42:10 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:42:10 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:42:10 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:42:10 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:46:34 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 28112@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:46:34 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:46:34 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:46:34 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:46:34 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:46:34 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:46:34 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:46:34 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:46:34 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:46:34 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:46:34 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:46:34 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:46:34 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:46:34 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:47:30 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 2996@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:47:30 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:47:30 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:47:30 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:47:30 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:47:30 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:47:30 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:47:30 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:47:30 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:47:30 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:47:30 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:47:30 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:47:30 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:47:30 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:56:37 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 28324@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:56:37 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:56:37 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:56:37 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:56:37 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:56:37 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:56:37 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:56:37 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:56:37 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:56:37 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:56:37 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:56:38 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:56:38 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:56:38 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 15:59:04 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 25952@LAPTOP-CF3BRR4L
+
+[2025-02-24 15:59:04 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 15:59:04 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 15:59:04 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 15:59:04 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 15:59:04 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 15:59:04 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 15:59:04 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 15:59:04 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 15:59:04 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 15:59:04 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 15:59:04 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 15:59:04 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 15:59:04 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 16:04:03 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 22556@LAPTOP-CF3BRR4L
+
+[2025-02-24 16:04:03 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 16:04:03 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 16:04:03 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 16:04:03 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 16:04:03 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 16:04:03 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 16:04:03 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 16:04:03 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 16:04:03 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 16:04:03 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 16:04:03 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 16:04:03 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 16:04:03 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 16:04:52 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 6472@LAPTOP-CF3BRR4L
+
+[2025-02-24 16:04:52 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 16:04:52 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 16:04:52 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 16:04:52 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 16:04:52 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 16:04:52 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 16:04:52 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 16:04:52 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 16:04:52 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 16:04:52 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 16:04:52 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 16:04:52 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 16:04:52 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 16:06:46 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 22548@LAPTOP-CF3BRR4L
+
+[2025-02-24 16:06:46 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 16:06:46 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 16:06:46 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 16:06:46 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 16:06:46 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 16:06:46 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 16:06:46 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 16:06:46 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 16:06:46 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 16:06:46 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 16:06:46 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 16:06:46 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 16:06:46 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 16:07:37 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 712@LAPTOP-CF3BRR4L
+
+[2025-02-24 16:07:37 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 16:07:37 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 16:07:37 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 16:07:37 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 16:07:37 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 16:07:37 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 16:07:37 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 16:07:37 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 16:07:37 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 16:07:37 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 16:07:37 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 16:07:37 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 16:07:37 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 16:09:29 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 28564@LAPTOP-CF3BRR4L
+
+[2025-02-24 16:09:29 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 16:09:29 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 16:09:29 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 16:09:29 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 16:09:29 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 16:09:29 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 16:09:29 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 16:09:29 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 16:09:29 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 16:09:29 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 16:09:29 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 16:09:29 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 16:09:29 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 16:16:53 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 5096@LAPTOP-CF3BRR4L
+
+[2025-02-24 16:16:53 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 16:16:53 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 16:16:53 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 16:16:53 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 16:16:53 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 16:16:53 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 16:16:53 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 16:16:53 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 16:16:53 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 16:16:53 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 16:16:53 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 16:16:53 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 16:16:53 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 16:17:31 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 23440@LAPTOP-CF3BRR4L
+
+[2025-02-24 16:17:31 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 16:17:31 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 16:17:31 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 16:17:31 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 16:17:31 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 16:17:31 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 16:17:31 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 16:17:31 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 16:17:31 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 16:17:31 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 16:17:31 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 16:17:31 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 16:17:31 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 16:20:21 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 18560@LAPTOP-CF3BRR4L
+
+[2025-02-24 16:20:21 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 16:20:21 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 16:20:21 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 16:20:21 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 16:20:21 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 16:20:21 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 16:20:21 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 16:20:21 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 16:20:21 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 16:20:21 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 16:20:21 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 16:20:21 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 16:20:21 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 16:21:42 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 9916@LAPTOP-CF3BRR4L
+
+[2025-02-24 16:21:42 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 16:21:42 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 16:21:42 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 16:21:42 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 16:21:42 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 16:21:42 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 16:21:42 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 16:21:42 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 16:21:42 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 16:21:42 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 16:21:42 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 16:21:42 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 16:21:42 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 16:21:59 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 4540@LAPTOP-CF3BRR4L
+
+[2025-02-24 16:21:59 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 16:21:59 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 16:21:59 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 16:21:59 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 16:21:59 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 16:21:59 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 16:21:59 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 16:21:59 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 16:21:59 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 16:21:59 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 16:21:59 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 16:21:59 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 16:21:59 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 16:24:15 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 15812@LAPTOP-CF3BRR4L
+
+[2025-02-24 16:24:15 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 16:24:15 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 16:24:15 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 16:24:15 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 16:24:15 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 16:24:15 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 16:24:15 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 16:24:15 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 16:24:15 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 16:24:15 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 16:24:15 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 16:24:15 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 16:24:15 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 16:24:51 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 18208@LAPTOP-CF3BRR4L
+
+[2025-02-24 16:24:51 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 16:24:51 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 16:24:51 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 16:24:51 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 16:24:51 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 16:24:51 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 16:24:51 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 16:24:51 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 16:24:51 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 16:24:51 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 16:24:51 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 16:24:51 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 16:24:51 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 16:26:22 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 4056@LAPTOP-CF3BRR4L
+
+[2025-02-24 16:26:22 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 16:26:22 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 16:26:22 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 16:26:22 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 16:26:22 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 16:26:22 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 16:26:22 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 16:26:22 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 16:26:22 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 16:26:22 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 16:26:22 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 16:26:22 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 16:26:22 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 16:29:29 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 15720@LAPTOP-CF3BRR4L
+
+[2025-02-24 16:29:29 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 16:29:29 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 16:29:29 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 16:29:29 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 16:29:29 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 16:29:29 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 16:29:29 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 16:29:29 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 16:29:29 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 16:29:29 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 16:29:29 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 16:29:29 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 16:29:29 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 16:30:19 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 28248@LAPTOP-CF3BRR4L
+
+[2025-02-24 16:30:19 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 16:30:19 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 16:30:19 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 16:30:19 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 16:30:19 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 16:30:19 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 16:30:19 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 16:30:19 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 16:30:19 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 16:30:19 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 16:30:19 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 16:30:19 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 16:30:19 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 16:32:40 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 16624@LAPTOP-CF3BRR4L
+
+[2025-02-24 16:32:40 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 16:32:40 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 16:32:40 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 16:32:40 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 16:32:40 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 16:32:40 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 16:32:40 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 16:32:40 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 16:32:40 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 16:32:40 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 16:32:40 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 16:32:40 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 16:32:40 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 16:33:49 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakEginOnartu\src\main\resources\rides.temp' is opened by 17160@LAPTOP-CF3BRR4L
+
+[2025-02-24 16:33:49 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 16:33:49 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 16:33:49 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 16:33:49 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 16:33:49 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 16:33:49 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 16:33:49 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 16:33:49 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 16:33:49 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 16:33:49 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 16:33:49 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 16:33:49 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 16:33:49 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 16:38:22 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 3268@LAPTOP-CF3BRR4L
+
+[2025-02-24 16:38:22 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 16:38:22 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 16:38:22 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 16:38:22 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 16:38:22 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 16:38:22 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 16:38:22 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 16:38:22 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 16:38:22 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 16:38:22 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 16:38:22 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 16:38:22 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 16:38:22 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:12:05 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 31756@Angela
+
+[2025-02-24 17:12:05 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:12:05 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:12:05 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:12:05 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:12:05 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:12:05 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:12:05 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:12:05 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:12:05 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:12:05 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:12:05 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:12:05 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:12:05 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:12:35 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 31424@Angela
+
+[2025-02-24 17:12:35 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:12:35 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:12:35 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:12:35 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:12:35 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:12:35 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:12:35 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:12:35 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:12:35 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:12:35 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:12:35 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:12:35 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:12:35 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:13:10 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 32656@Angela
+
+[2025-02-24 17:13:10 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:13:10 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:13:10 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:13:10 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:13:10 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:13:10 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:13:10 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:13:10 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:13:10 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:13:10 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:13:10 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:13:10 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:13:10 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:13:42 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 30252@Angela
+
+[2025-02-24 17:13:42 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:13:42 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:13:42 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:13:42 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:13:42 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:13:42 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:13:42 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:13:42 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:13:42 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:13:42 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:13:42 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:13:42 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:13:42 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:14:16 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 33316@Angela
+
+[2025-02-24 17:14:17 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:14:17 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:14:17 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:14:17 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:14:17 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:14:17 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:14:17 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:14:17 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:14:17 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:14:17 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:14:17 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:14:17 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:14:17 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:14:59 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 22220@Angela
+
+[2025-02-24 17:14:59 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:14:59 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:14:59 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:14:59 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:14:59 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:14:59 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:14:59 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:14:59 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:14:59 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:14:59 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:14:59 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:14:59 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:14:59 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:15:31 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 24116@Angela
+
+[2025-02-24 17:15:31 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:15:31 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:15:31 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:15:31 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:15:31 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:15:31 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:15:31 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:15:31 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:15:31 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:15:31 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:15:32 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:15:32 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:15:32 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:16:11 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 31460@Angela
+
+[2025-02-24 17:16:12 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:16:12 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:16:12 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:16:12 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:16:12 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:16:12 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:16:12 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:16:12 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:16:12 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:16:12 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:16:12 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:16:12 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:16:12 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:16:53 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 33040@Angela
+
+[2025-02-24 17:16:53 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:16:53 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:16:53 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:16:53 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:16:53 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:16:53 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:16:53 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:16:53 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:16:53 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:16:53 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:16:53 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:16:53 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:16:53 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:17:20 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 28648@Angela
+
+[2025-02-24 17:17:20 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:17:20 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:17:20 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:17:20 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:17:20 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:17:20 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:17:20 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:17:20 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:17:20 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:17:20 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:17:20 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:17:20 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:17:20 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:18:00 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 33684@Angela
+
+[2025-02-24 17:18:01 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:18:01 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:18:01 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:18:01 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:18:01 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:18:01 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:18:01 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:18:01 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:18:01 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:18:01 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:18:01 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:18:01 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:18:01 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:18:28 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 32872@Angela
+
+[2025-02-24 17:18:28 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:18:28 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:18:28 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:18:28 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:18:28 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:18:28 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:18:28 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:18:28 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:18:28 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:18:28 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:18:28 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:18:29 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:18:29 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:18:56 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 34332@Angela
+
+[2025-02-24 17:18:56 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:18:56 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:18:56 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:18:56 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:18:56 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:18:56 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:18:56 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:18:56 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:18:56 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:18:56 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:18:56 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:18:56 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:18:56 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:20:47 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 34148@Angela
+
+[2025-02-24 17:20:47 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:20:47 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:20:47 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:20:47 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:20:47 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:20:47 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:20:47 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:20:47 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:20:47 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:20:47 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:20:47 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:20:47 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:20:47 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:21:22 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 33488@Angela
+
+[2025-02-24 17:21:22 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:21:22 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:21:22 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:21:22 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:21:22 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:21:22 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:21:22 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:21:22 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:21:22 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:21:22 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:21:22 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:21:22 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:21:22 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:22:45 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 29608@Angela
+
+[2025-02-24 17:22:45 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:22:45 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:22:45 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:22:45 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:22:45 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:22:45 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:22:45 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:22:45 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:22:45 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:22:45 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:22:45 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:22:45 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:22:45 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:23:19 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 31556@Angela
+
+[2025-02-24 17:23:19 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:23:19 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:23:19 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:23:19 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:23:19 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:23:19 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:23:19 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:23:19 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:23:19 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:23:19 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:23:19 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:23:19 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:23:19 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:24:04 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 13096@Angela
+
+[2025-02-24 17:24:04 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:24:04 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:24:04 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:24:04 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:24:04 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:24:04 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:24:04 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:24:04 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:24:04 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:24:04 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:24:04 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:24:04 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:24:04 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:24:23 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 33828@Angela
+
+[2025-02-24 17:24:23 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:24:23 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:24:23 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:24:23 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:24:23 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:24:23 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:24:23 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:24:23 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:24:23 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:24:23 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:24:23 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:24:23 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:24:23 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:25:07 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 35232@Angela
+
+[2025-02-24 17:25:08 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:25:08 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:25:08 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:25:08 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:25:08 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:25:08 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:25:08 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:25:08 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:25:08 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:25:08 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:25:08 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:25:08 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:25:08 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:27:42 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 35208@Angela
+
+[2025-02-24 17:27:42 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:27:42 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:27:42 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:27:42 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:27:42 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:27:42 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:27:42 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:27:42 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:27:42 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:27:42 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:27:43 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:27:43 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:27:43 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:31:52 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 29176@Angela
+
+[2025-02-24 17:31:52 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:31:52 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:31:52 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:31:52 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:31:52 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:31:52 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:31:52 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:31:52 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:31:52 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:31:52 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:31:52 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:31:52 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:31:52 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:32:26 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 36420@Angela
+
+[2025-02-24 17:32:26 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:32:26 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:32:26 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:32:26 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:32:26 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:32:26 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:32:26 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:32:26 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:32:26 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:32:26 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:32:26 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:32:26 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:32:26 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:35:02 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 34516@Angela
+
+[2025-02-24 17:35:02 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:35:02 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:35:02 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:35:02 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:35:02 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:35:02 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:35:02 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:35:02 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:35:02 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:35:02 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:35:02 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:35:02 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:35:02 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:36:23 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 35516@Angela
+
+[2025-02-24 17:36:23 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:36:23 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:36:23 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:36:23 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:36:23 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:36:23 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:36:23 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:36:23 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:36:23 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:36:23 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:36:23 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:36:23 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:36:23 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:37:28 #1 store] 
+Database 'C:\Users\norie\Desktop\SI2\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 38600@Angela
+
+[2025-02-24 17:37:29 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:37:29 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:37:29 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:37:29 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:37:29 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:37:29 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:37:29 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:37:29 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:37:29 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:37:29 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:37:29 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:37:29 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:37:29 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:50:34 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 2504@LAPTOP-CF3BRR4L
+
+[2025-02-24 17:50:35 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:50:35 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:50:35 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:50:35 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:50:35 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:50:35 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:50:35 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:50:35 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:50:35 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:50:35 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:50:35 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:50:35 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:50:35 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:54:04 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 17880@LAPTOP-CF3BRR4L
+
+[2025-02-24 17:54:04 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:54:04 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:54:04 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:54:04 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:54:04 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:54:04 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:54:04 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:54:04 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:54:04 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:54:04 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:54:04 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:54:04 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:54:04 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:58:35 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 5580@LAPTOP-CF3BRR4L
+
+[2025-02-24 17:58:36 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:58:36 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:58:36 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:58:36 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:58:36 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:58:36 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:58:36 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:58:36 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:58:36 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:58:36 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:58:36 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:58:36 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:58:36 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 17:59:47 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 19928@LAPTOP-CF3BRR4L
+
+[2025-02-24 17:59:48 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 17:59:48 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 17:59:48 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 17:59:48 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 17:59:48 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 17:59:48 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 17:59:48 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 17:59:48 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 17:59:48 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 17:59:48 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 17:59:48 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 17:59:48 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 17:59:48 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 18:07:18 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 26292@LAPTOP-CF3BRR4L
+
+[2025-02-24 18:07:18 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 18:07:18 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 18:07:18 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 18:07:18 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 18:07:18 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 18:07:18 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 18:07:18 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 18:07:18 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 18:07:18 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 18:07:18 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 18:07:19 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 18:07:19 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 18:07:19 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 18:09:42 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 26412@LAPTOP-CF3BRR4L
+
+[2025-02-24 18:09:43 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 18:09:43 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 18:09:43 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 18:09:43 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 18:09:43 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 18:09:43 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 18:09:43 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 18:09:43 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 18:09:43 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 18:09:43 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 18:09:43 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 18:09:43 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 18:09:43 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 18:12:30 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 26140@LAPTOP-CF3BRR4L
+
+[2025-02-24 18:12:31 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 18:12:31 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 18:12:31 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 18:12:31 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 18:12:31 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 18:12:31 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 18:12:31 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 18:12:31 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 18:12:31 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 18:12:31 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 18:12:31 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 18:12:31 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 18:12:31 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 18:17:46 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 8760@LAPTOP-CF3BRR4L
+
+[2025-02-24 18:17:47 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 18:17:47 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 18:17:47 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 18:17:47 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 18:17:47 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 18:17:47 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 18:17:47 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 18:17:47 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 18:17:47 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 18:17:47 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 18:17:47 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 18:17:47 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 18:17:47 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 18:31:42 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 18412@LAPTOP-CF3BRR4L
+
+[2025-02-24 18:31:42 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 18:31:42 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 18:31:42 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 18:31:42 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 18:31:42 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 18:31:42 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 18:31:42 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 18:31:42 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 18:31:42 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 18:31:42 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 18:31:42 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 18:31:42 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 18:31:42 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 18:33:25 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 8808@LAPTOP-CF3BRR4L
+
+[2025-02-24 18:33:25 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 18:33:25 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 18:33:25 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 18:33:25 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 18:33:25 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 18:33:25 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 18:33:25 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 18:33:25 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 18:33:25 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 18:33:25 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 18:33:25 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 18:33:25 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 18:33:25 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 18:35:48 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 14976@LAPTOP-CF3BRR4L
+
+[2025-02-24 18:35:48 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 18:35:48 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 18:35:48 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 18:35:49 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 18:35:49 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 18:35:49 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 18:35:49 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 18:35:49 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 18:35:49 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 18:35:49 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 18:35:49 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 18:35:49 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 18:35:49 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 18:36:20 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 26992@LAPTOP-CF3BRR4L
+
+[2025-02-24 18:36:20 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 18:36:20 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 18:36:20 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 18:36:20 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 18:36:20 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 18:36:20 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 18:36:20 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 18:36:20 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 18:36:20 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 18:36:20 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 18:36:21 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 18:36:21 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 18:36:21 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 18:46:00 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 27128@LAPTOP-CF3BRR4L
+
+[2025-02-24 18:46:01 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 18:46:01 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 18:46:01 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 18:46:01 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 18:46:01 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 18:46:01 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 18:46:01 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 18:46:01 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 18:46:01 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 18:46:01 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 18:46:01 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 18:46:01 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 18:46:01 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 18:46:29 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 28544@LAPTOP-CF3BRR4L
+
+[2025-02-24 18:46:29 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 18:46:29 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 18:46:29 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 18:46:29 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 18:46:29 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 18:46:29 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 18:46:29 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 18:46:29 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 18:46:29 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 18:46:29 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 18:46:29 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 18:46:29 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 18:46:29 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 18:47:01 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 15420@LAPTOP-CF3BRR4L
+
+[2025-02-24 18:47:01 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 18:47:01 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 18:47:02 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 18:47:02 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 18:47:02 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 18:47:02 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 18:47:02 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 18:47:02 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 18:47:02 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 18:47:02 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 18:47:02 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 18:47:02 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 18:47:02 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 18:47:15 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 5740@LAPTOP-CF3BRR4L
+
+[2025-02-24 18:47:15 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 18:47:15 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 18:47:15 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 18:47:15 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 18:47:15 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 18:47:15 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 18:47:15 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 18:47:15 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 18:47:15 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 18:47:15 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 18:47:15 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 18:47:15 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 18:47:15 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 18:47:48 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 14716@LAPTOP-CF3BRR4L
+
+[2025-02-24 18:47:49 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 18:47:49 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 18:47:49 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 18:47:49 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 18:47:49 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 18:47:49 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 18:47:49 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 18:47:49 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 18:47:49 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 18:47:49 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 18:47:49 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 18:47:49 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 18:47:49 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 18:48:13 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 19164@LAPTOP-CF3BRR4L
+
+[2025-02-24 18:48:14 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 18:48:14 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 18:48:14 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 18:48:14 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 18:48:14 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 18:48:14 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 18:48:14 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 18:48:14 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 18:48:14 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 18:48:14 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 18:48:14 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 18:48:14 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 18:48:14 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 18:48:28 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 27300@LAPTOP-CF3BRR4L
+
+[2025-02-24 18:48:28 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 18:48:28 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 18:48:28 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 18:48:28 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 18:48:28 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 18:48:28 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 18:48:28 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 18:48:28 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 18:48:28 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 18:48:28 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 18:48:28 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 18:48:28 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 18:48:28 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 18:48:47 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 2096@LAPTOP-CF3BRR4L
+
+[2025-02-24 18:48:48 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 18:48:48 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 18:48:48 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 18:48:48 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 18:48:48 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 18:48:48 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 18:48:48 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 18:48:48 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 18:48:48 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 18:48:48 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 18:48:48 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 18:48:48 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 18:48:48 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 18:50:27 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 14956@LAPTOP-CF3BRR4L
+
+[2025-02-24 18:50:27 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 18:50:27 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 18:50:27 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 18:50:27 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 18:50:27 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 18:50:27 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 18:50:27 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 18:50:27 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 18:50:27 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 18:50:27 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 18:50:27 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 18:50:27 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 18:50:27 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 18:51:22 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 27536@LAPTOP-CF3BRR4L
+
+[2025-02-24 18:51:22 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 18:51:22 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 18:51:22 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 18:51:22 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 18:51:22 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 18:51:22 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 18:51:22 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 18:51:22 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 18:51:22 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 18:51:22 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 18:51:22 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 18:51:22 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 18:51:22 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 18:54:16 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 28328@LAPTOP-CF3BRR4L
+
+[2025-02-24 18:54:17 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 18:54:17 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 18:54:17 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 18:54:17 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 18:54:17 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 18:54:17 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 18:54:17 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 18:54:17 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 18:54:17 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 18:54:17 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 18:54:17 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 18:54:17 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 18:54:17 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 18:55:08 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 2452@LAPTOP-CF3BRR4L
+
+[2025-02-24 18:55:08 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 18:55:08 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 18:55:08 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 18:55:08 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 18:55:08 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 18:55:08 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 18:55:08 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 18:55:08 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 18:55:08 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 18:55:08 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 18:55:08 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 18:55:08 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 18:55:08 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 18:57:35 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 24556@LAPTOP-CF3BRR4L
+
+[2025-02-24 18:57:35 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 18:57:35 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 18:57:35 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 18:57:35 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 18:57:35 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 18:57:35 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 18:57:35 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 18:57:35 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 18:57:35 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 18:57:35 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 18:57:35 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 18:57:35 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 18:57:35 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 18:58:54 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 7092@LAPTOP-CF3BRR4L
+
+[2025-02-24 18:58:54 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 18:58:54 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 18:58:54 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 18:58:54 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 18:58:54 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 18:58:54 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 18:58:54 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 18:58:54 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 18:58:54 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 18:58:54 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 18:58:55 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 18:58:55 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 18:58:55 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 19:02:48 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 4424@LAPTOP-CF3BRR4L
+
+[2025-02-24 19:02:49 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 19:02:49 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 19:02:49 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 19:02:49 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 19:02:49 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 19:02:49 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 19:02:49 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 19:02:49 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 19:02:49 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 19:02:49 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 19:02:49 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 19:02:49 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 19:02:49 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 19:05:23 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 3780@LAPTOP-CF3BRR4L
+
+[2025-02-24 19:05:23 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 19:05:23 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 19:05:23 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 19:05:23 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 19:05:23 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 19:05:23 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 19:05:23 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 19:05:23 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 19:05:23 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 19:05:23 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 19:05:23 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 19:05:23 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 19:05:23 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 19:07:24 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 22236@LAPTOP-CF3BRR4L
+
+[2025-02-24 19:07:24 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 19:07:24 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 19:07:24 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 19:07:24 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 19:07:25 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 19:07:25 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 19:07:25 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 19:07:25 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 19:07:25 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 19:07:25 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 19:07:25 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 19:07:25 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 19:07:25 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 19:10:04 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 8788@LAPTOP-CF3BRR4L
+
+[2025-02-24 19:10:04 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 19:10:04 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 19:10:05 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 19:10:05 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 19:10:05 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 19:10:05 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 19:10:05 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 19:10:05 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 19:10:05 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 19:10:05 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 19:10:05 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 19:10:05 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 19:10:05 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 19:11:06 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24_ErreserbakOnartuDeuseztatu\src\main\resources\rides.temp' is opened by 25952@LAPTOP-CF3BRR4L
+
+[2025-02-24 19:11:07 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 19:11:07 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 19:11:07 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 19:11:07 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 19:11:07 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 19:11:07 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 19:11:07 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 19:11:07 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 19:11:07 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 19:11:07 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 19:11:07 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 19:11:07 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 19:11:07 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 19:12:23 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24\src\main\resources\rides.temp' is opened by 5092@LAPTOP-CF3BRR4L
+
+[2025-02-24 19:12:24 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 19:12:24 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 19:12:24 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 19:12:24 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 19:12:24 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 19:12:24 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 19:12:24 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 19:12:24 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 19:12:24 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 19:12:24 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 19:12:24 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 19:12:24 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 19:12:24 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 19:37:19 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24\src\main\resources\rides.temp' is opened by 19256@LAPTOP-CF3BRR4L
+
+[2025-02-24 19:37:20 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 19:37:20 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 19:37:20 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 19:37:20 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 19:37:20 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 19:37:20 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 19:37:20 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 19:37:20 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 19:37:20 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 19:37:20 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 19:37:20 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 19:37:20 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 19:37:20 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 19:53:23 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24\src\main\resources\rides.temp' is opened by 15876@LAPTOP-CF3BRR4L
+
+[2025-02-24 19:53:23 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 19:53:23 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 19:53:23 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 19:53:23 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 19:53:23 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 19:53:23 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 19:53:23 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 19:53:23 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 19:53:23 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 19:53:23 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 19:53:23 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 19:53:23 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 19:53:23 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 20:09:43 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24\src\main\resources\rides.temp' is opened by 17600@LAPTOP-CF3BRR4L
+
+[2025-02-24 20:09:43 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 20:09:43 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 20:09:43 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 20:09:44 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 20:09:44 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 20:09:44 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 20:09:44 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 20:09:44 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 20:09:44 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 20:09:44 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 20:09:44 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 20:09:44 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 20:09:44 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-02-24 20:12:39 #1 store] 
+Database 'C:\Users\h165p\Desktop\Ingurunea\1Iterazioa\Rides24\src\main\resources\rides.temp' is opened by 23420@LAPTOP-CF3BRR4L
+
+[2025-02-24 20:12:39 #2 type.registry] 
+New type domain.User
+
+[2025-02-24 20:12:39 #3 type.registry] 
+New type domain.Driver
+
+[2025-02-24 20:12:39 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-02-24 20:12:39 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2025-02-24 20:12:39 #6 type.registry] 
+New type domain.Ride
+
+[2025-02-24 20:12:39 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-02-24 20:12:39 #8 type.registry] 
+New type domain.Erreserba
+
+[2025-02-24 20:12:39 #9 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-02-24 20:12:39 #10 type.registry] 
+New type domain.Bidaiaria
+
+[2025-02-24 20:12:39 #11 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-02-24 20:12:39 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-02-24 20:12:39 #13 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-02-24 20:12:39 #14 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+

@@ -1,0 +1,312 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-13 12:53:00 #1 store] 
+Database 'E:\作业\24-25\SI\3iterazio\Rides24\src\main\resources\rides.temp' is opened by 1916@暗影精灵8
+
+[2025-05-13 12:53:00 #2 type.registry] 
+New type domain.User
+
+[2025-05-13 12:53:00 #3 type.registry] 
+New type domain.Driver
+
+[2025-05-13 12:53:00 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-05-13 12:53:00 #5 type.registry] 
+New type domain.Balorazioa
+
+[2025-05-13 12:53:00 #6 type.registry] 
+New type domain.Mugimendua
+
+[2025-05-13 12:53:00 #7 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-13 12:53:00 #8 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-05-13 12:53:00 #9 type.registry] 
+New type domain.Kotxea
+
+[2025-05-13 12:53:00 #10 type.registry] 
+New type domain.Ride
+
+[2025-05-13 12:53:00 #11 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-05-13 12:53:00 #12 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-05-13 12:53:00 #13 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-05-13 12:53:00 #14 type.registry] 
+New type domain.Mezua
+
+[2025-05-13 12:53:00 #15 type.registry] 
+New type domain.Erreserba
+
+[2025-05-13 12:53:00 #16 type.registry] 
+New type domain.Admin
+
+[2025-05-13 12:53:00 #17 type.registry] 
+New type domain.Bidaiaria
+
+[2025-05-13 12:53:00 #18 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-05-13 12:53:00 #19 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-13 12:53:00 #20 type] 
+Type domain.Mezua is not enhanced.
+
+[2025-05-13 12:53:00 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-05-13 12:53:00 #22 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-13 12:53:00 #23 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-05-13 12:53:00 #24 type.registry] 
+New type domain.Alerta
+
+[2025-05-13 12:53:00 #25 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-13 12:53:00 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-13 12:53:00 #27 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2025-05-13 12:53:00 #28 type.registry] 
+New type java.util.Vector<domain.Balorazioa>
+
+[2025-05-13 12:53:00 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-13 12:53:00 #30 type.registry] 
+New type java.util.Vector<domain.Kotxea>
+
+[2025-05-13 12:53:00 #31 type.registry] 
+New type java.util.Vector<domain.Erreklamazioa>
+
+[2025-05-13 12:53:00 #32 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+[2025-05-13 12:53:00 #33 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+[2025-05-13 12:53:00 #34 type.registry] 
+New type java.util.Vector<domain.Mezua>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-13 14:41:34 #1 store] 
+Database 'E:\作业\24-25\SI\3iterazio\Rides24\src\main\resources\rides.temp' is opened by 4304@暗影精灵8
+
+[2025-05-13 14:41:35 #2 type.registry] 
+New type domain.User
+
+[2025-05-13 14:41:35 #3 type.registry] 
+New type domain.Driver
+
+[2025-05-13 14:41:35 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-05-13 14:41:35 #5 type.registry] 
+New type domain.Balorazioa
+
+[2025-05-13 14:41:35 #6 type.registry] 
+New type domain.Mugimendua
+
+[2025-05-13 14:41:35 #7 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-13 14:41:35 #8 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-05-13 14:41:35 #9 type.registry] 
+New type domain.Kotxea
+
+[2025-05-13 14:41:35 #10 type.registry] 
+New type domain.Ride
+
+[2025-05-13 14:41:35 #11 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-05-13 14:41:35 #12 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-05-13 14:41:35 #13 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-05-13 14:41:35 #14 type.registry] 
+New type domain.Mezua
+
+[2025-05-13 14:41:35 #15 type.registry] 
+New type domain.Erreserba
+
+[2025-05-13 14:41:35 #16 type.registry] 
+New type domain.Admin
+
+[2025-05-13 14:41:35 #17 type.registry] 
+New type domain.Bidaiaria
+
+[2025-05-13 14:41:35 #18 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-05-13 14:41:35 #19 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-13 14:41:35 #20 type] 
+Type domain.Mezua is not enhanced.
+
+[2025-05-13 14:41:35 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-05-13 14:41:35 #22 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-13 14:41:35 #23 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-05-13 14:41:35 #24 type.registry] 
+New type domain.Alerta
+
+[2025-05-13 14:41:35 #25 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-13 14:41:35 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-13 14:41:35 #27 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2025-05-13 14:41:35 #28 type.registry] 
+New type java.util.Vector<domain.Balorazioa>
+
+[2025-05-13 14:41:35 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-13 14:41:35 #30 type.registry] 
+New type java.util.Vector<domain.Kotxea>
+
+[2025-05-13 14:41:35 #31 type.registry] 
+New type java.util.Vector<domain.Erreklamazioa>
+
+[2025-05-13 14:41:35 #32 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+[2025-05-13 14:41:35 #33 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+[2025-05-13 14:41:35 #34 type.registry] 
+New type java.util.Vector<domain.Mezua>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-13 14:43:11 #1 store] 
+Database 'E:\作业\24-25\SI\3iterazio\Rides24\src\main\resources\rides.temp' is opened by 14844@暗影精灵8
+
+[2025-05-13 14:43:11 #2 type.registry] 
+New type domain.User
+
+[2025-05-13 14:43:11 #3 type.registry] 
+New type domain.Driver
+
+[2025-05-13 14:43:11 #4 type] 
+Type domain.User is not enhanced.
+
+[2025-05-13 14:43:11 #5 type.registry] 
+New type domain.Balorazioa
+
+[2025-05-13 14:43:11 #6 type.registry] 
+New type domain.Mugimendua
+
+[2025-05-13 14:43:11 #7 type] 
+Type domain.Driver is not enhanced.
+
+[2025-05-13 14:43:11 #8 type.registry] 
+New type domain.Erreklamazioa
+
+[2025-05-13 14:43:11 #9 type.registry] 
+New type domain.Kotxea
+
+[2025-05-13 14:43:11 #10 type.registry] 
+New type domain.Ride
+
+[2025-05-13 14:43:11 #11 type] 
+Type domain.Balorazioa is not enhanced.
+
+[2025-05-13 14:43:11 #12 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2025-05-13 14:43:11 #13 type] 
+Type domain.Erreklamazioa is not enhanced.
+
+[2025-05-13 14:43:11 #14 type.registry] 
+New type domain.Mezua
+
+[2025-05-13 14:43:11 #15 type.registry] 
+New type domain.Erreserba
+
+[2025-05-13 14:43:11 #16 type.registry] 
+New type domain.Admin
+
+[2025-05-13 14:43:11 #17 type.registry] 
+New type domain.Bidaiaria
+
+[2025-05-13 14:43:11 #18 type] 
+Type domain.Kotxea is not enhanced.
+
+[2025-05-13 14:43:11 #19 type] 
+Type domain.Ride is not enhanced.
+
+[2025-05-13 14:43:11 #20 type] 
+Type domain.Mezua is not enhanced.
+
+[2025-05-13 14:43:11 #21 type] 
+Type domain.Erreserba is not enhanced.
+
+[2025-05-13 14:43:11 #22 type] 
+Type domain.Admin is not enhanced.
+
+[2025-05-13 14:43:11 #23 type] 
+Type domain.Bidaiaria is not enhanced.
+
+[2025-05-13 14:43:11 #24 type.registry] 
+New type domain.Alerta
+
+[2025-05-13 14:43:11 #25 type] 
+Type domain.Alerta is not enhanced.
+
+[2025-05-13 14:43:11 #26 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-05-13 14:43:11 #27 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2025-05-13 14:43:11 #28 type.registry] 
+New type java.util.Vector<domain.Balorazioa>
+
+[2025-05-13 14:43:11 #29 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-05-13 14:43:11 #30 type.registry] 
+New type java.util.Vector<domain.Kotxea>
+
+[2025-05-13 14:43:11 #31 type.registry] 
+New type java.util.Vector<domain.Erreklamazioa>
+
+[2025-05-13 14:43:11 #32 type.registry] 
+New type java.util.Vector<domain.Erreserba>
+
+[2025-05-13 14:43:11 #33 type.registry] 
+New type java.util.Vector<domain.Alerta>
+
+[2025-05-13 14:43:11 #34 type.registry] 
+New type java.util.Vector<domain.Mezua>
+
