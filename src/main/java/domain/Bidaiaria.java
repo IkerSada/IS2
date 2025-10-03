@@ -76,7 +76,8 @@ public class Bidaiaria extends User implements Serializable {
 	public void setEmail(String email) {
 		super.setEmail(email);
 	}
-
+	
+	@Override
 	public String getPasahitza() {
 		return super.getPasahitza();
 	}

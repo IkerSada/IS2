@@ -43,7 +43,7 @@ import exceptions.erreklamazioaEbatzitaException;
 public class DataAccess  {
 	private  EntityManager  db;
 	private  EntityManagerFactory emf;
-
+	static final String TAG_Bilbo = "Bilbo";
 
 	ConfigXML c=ConfigXML.getInstance();
 
@@ -110,24 +110,24 @@ public class DataAccess  {
 			Admin admin1 = new Admin("admin@gmail.com","admin"); 	//GEHITU 
 
 			// Create rides
-			driver1.addRide("Donostia", "Bilbo", UtilDate.newDate(year,month,15), 4, 7);
+			driver1.addRide("Donostia", TAG_Bilbo, UtilDate.newDate(year,month,15), 4, 7);
 			driver1.addRide("Donostia", "Gazteiz", UtilDate.newDate(year,month,6), 4, 8);
-			driver1.addRide("Bilbo", "Donostia", UtilDate.newDate(year,month,25), 4, 4);
+			driver1.addRide(TAG_Bilbo, "Donostia", UtilDate.newDate(year,month,25), 4, 4);
 			driver1.addRide("Donostia", "Iruña", UtilDate.newDate(year,month,7), 4, 8);
 
-			driver2.addRide("Donostia", "Bilbo", UtilDate.newDate(year,month,15), 3, 3);
-			driver2.addRide("Bilbo", "Donostia", UtilDate.newDate(year,month,25), 2, 5);
+			driver2.addRide("Donostia", TAG_Bilbo, UtilDate.newDate(year,month,15), 3, 3);
+			driver2.addRide(TAG_Bilbo, "Donostia", UtilDate.newDate(year,month,25), 2, 5);
 			driver2.addRide("Eibar", "Gasteiz", UtilDate.newDate(year,month,6), 2, 5);
 
-			driver3.addRide("Bilbo", "Donostia", UtilDate.newDate(year,month,14), 1, 3);
+			driver3.addRide(TAG_Bilbo, "Donostia", UtilDate.newDate(year,month,14), 1, 3);
 			
 			// GEHITU kotxea
 			((Driver)user2).addKotxe("1234 ABC", 4, "Audi");
 			//
 			
 			// GEHITU DUGU ADMIN-REN KUDEAKETA PROBATZEKO
-			Ride bidaiberri2=((Driver)user2).addRide("Bilbo", "Donostia", UtilDate.newDate(year,month,25), 2, 5);
-			Ride bidaiberri=((Driver)user2).addRide("Bilbo", "Donostia", UtilDate.newDate(year,month,28), 2, 5);
+			Ride bidaiberri2=((Driver)user2).addRide(TAG_Bilbo, "Donostia", UtilDate.newDate(year,month,25), 2, 5);
+			Ride bidaiberri=((Driver)user2).addRide(TAG_Bilbo, "Donostia", UtilDate.newDate(year,month,28), 2, 5);
 
 			Erreserba errb0= new Erreserba(1,bidaiberri,(Bidaiaria) user1);
 			Erreklamazioa err1=new Erreklamazioa(errb0, "esperientzia txarra", (Bidaiaria) user1, (Driver)user2);
