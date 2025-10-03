@@ -20,7 +20,7 @@ public class Alerta implements Serializable {
 	@Id
 	@XmlJavaTypeAdapter(IntegerAdapter.class)
 	@GeneratedValue
-	private Integer Alertazbk;
+	private Integer alertazbk;
 	private String nondik;
 	private String nora;
 	private Date data;

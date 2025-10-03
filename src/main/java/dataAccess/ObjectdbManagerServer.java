@@ -11,8 +11,7 @@ import javax.swing.border.EmptyBorder;
 import configuration.ConfigXML;
 
 import javax.swing.JTextArea;
-
-
+import javax.swing.WindowConstants;
 
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
@@ -42,7 +41,7 @@ public class ObjectdbManagerServer extends JDialog {
 
 
 			ObjectdbManagerServer dialog = new ObjectdbManagerServer();
-			dialog.setDefaultCloseOperation(JDialog.DISPOSE_ON_CLOSE);
+			dialog.setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
 			dialog.setVisible(true);
 		} catch (Exception e) {
 			e.printStackTrace();
