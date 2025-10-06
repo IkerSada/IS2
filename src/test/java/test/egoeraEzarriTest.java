@@ -2,13 +2,29 @@ package test;
 
 import static org.junit.Assert.*;
 
-import org.junit.Test;
+import javax.persistence.EntityManager;
 
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.mockito.InjectMocks;
+import org.mockito.Mock;
+import org.mockito.Mockito;
+import org.mockito.junit.MockitoJUnitRunner;
+
+import dataAccess.DataAccess;
+
+@RunWith(MockitoJUnitRunner.class)
 public class egoeraEzarriTest {
 
-	@Test
-	public void test() {
-		fail("Not yet implemented");
-	}
-//hola
+    @Mock
+    private EntityManager db;
+
+    @InjectMocks
+    private DataAccess sut;
+	
+    @Test
+    public void testGetTravelerById_ReturnsTraveler_WhenExists() {
+      
+    }
+
 }
