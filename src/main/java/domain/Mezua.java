@@ -5,6 +5,7 @@ import java.io.Serializable;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.ManyToOne;
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlID;
@@ -20,6 +21,7 @@ public class Mezua implements Serializable {
 	@GeneratedValue
 	private Integer mezuzbk;
 	private String testua;
+	@ManyToOne
 	private Erreklamazioa erreklamazioa;		
 	
 	

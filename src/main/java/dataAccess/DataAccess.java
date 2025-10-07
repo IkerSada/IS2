@@ -41,13 +41,14 @@ import exceptions.erreklamazioaEbatzitaException;
  * It implements the data access to the objectDb database
  */
 public class DataAccess  {
-	private  EntityManager  db;
+	public  EntityManager  db;
 	private  EntityManagerFactory emf;
 	static final String TAG_Bilbo = "Bilbo";
 
 	ConfigXML c=ConfigXML.getInstance();
 
 	public DataAccess()  {
+		/*
 		if (c.isDatabaseInitialized()) {
 			String fileName=c.getDbFilename();
 
@@ -61,6 +62,7 @@ public class DataAccess  {
 				System.out.println("Operation failed");
 			}
 		}
+		*/
 		open();
 		if  (c.isDatabaseInitialized())initializeDB();
 
@@ -288,23 +290,32 @@ public class DataAccess  {
 
 
 	public void open() {
-
-		String fileName=c.getDbFilename();
-		if (c.isDatabaseLocal()) {
-			emf = Persistence.createEntityManagerFactory("objectdb:"+fileName);
-			db = emf.createEntityManager();
-		} else {
-			Map<String, String> properties = new HashMap<>();
-			properties.put("javax.persistence.jdbc.user", c.getUser());
-			properties.put("javax.persistence.jdbc.password", c.getPassword());
-
-			emf = Persistence.createEntityManagerFactory("objectdb://"+c.getDatabaseNode()+":"+c.getDatabasePort()+"/"+fileName, properties);
-			db = emf.createEntityManager();
-		}
-		System.out.println("DataAccess opened => isDatabaseLocal: "+c.isDatabaseLocal());
-
+	    System.out.println("Opening DataAccess - FORCING H2 database");
+	    
+	    try {
+	        Map<String, String> properties = new HashMap<>();
+	        properties.put("javax.persistence.jdbc.driver", "org.h2.Driver");
+	        properties.put("javax.persistence.jdbc.url", "jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1");
+	        properties.put("javax.persistence.jdbc.user", "sa");
+	        properties.put("javax.persistence.jdbc.password", "");
+	        properties.put("hibernate.dialect", "org.hibernate.dialect.H2Dialect");
+	        properties.put("hibernate.hbm2ddl.auto", "create-drop");
+	        properties.put("hibernate.show_sql", "true");
+	        properties.put("hibernate.format_sql", "true");
+	        
+	        // AÑADIR estas propiedades para mejor manejo de transacciones
+	        properties.put("hibernate.connection.autocommit", "false");
+	        properties.put("hibernate.enable_lazy_load_no_trans", "true");
+	        
+	        emf = Persistence.createEntityManagerFactory("objectdb", properties);
+	        db = emf.createEntityManager();
+	        System.out.println("Successfully connected to H2 in-memory database");
+	    } catch (Exception e) {
+	        System.err.println("Error creating H2 EntityManager: " + e.getMessage());
+	        e.printStackTrace();
+	        throw new RuntimeException("Cannot initialize H2 database", e);
+	    }
 	}
-
 	public void close(){
 		db.close();
 		System.out.println("DataAcess closed");
@@ -871,7 +882,7 @@ public class DataAccess  {
 		db.getTransaction().commit();
 		close();
 	}
-
+	
 	// GEHITU
 	public void alertakEguneratu(Ride r) {
 		open();

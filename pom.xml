@@ -33,28 +33,18 @@
 					</execution>
 				</executions>
 			</plugin>
-			
 		</plugins>
 	</build>
-	<repositories>
-		<repository>
-			<id>objectdb</id>
-			<name>ObjectDB Repository</name>
-			<url>https://m2.objectdb.com</url>
-		</repository>
-	</repositories>
 
 	<properties>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
-
 		<sonar.organization>jononekin</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.projectKey>jononekin_monopoly-euskara</sonar.projectKey>
 		<sonar.login>69f0b261f26fe8390be129e064c0bf84e7a4c3b1</sonar.login>
 	</properties>
 
-	<!-- https://mvnrepository.com/artifact/junit/junit -->
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
@@ -82,7 +72,6 @@
 			<version>2.3.2</version>
 		</dependency>
 
-
 		<!-- API JAX-WS -->
 		<dependency>
 			<groupId>jakarta.xml.ws</groupId>
@@ -97,22 +86,25 @@
 			<version>2.3.5</version>
 		</dependency>
 
+		<!-- H2 Database (REEMPLAZA ObjectDB) -->
 		<dependency>
-			<groupId>com.objectdb</groupId>
-			<artifactId>objectdb</artifactId>
-			<version>2.8.1</version>
+			<groupId>com.h2database</groupId>
+			<artifactId>h2</artifactId>
+			<version>2.2.224</version>
 		</dependency>
 
-
+		<!-- Hibernate JPA Provider -->
 		<dependency>
-			<groupId>org.eclipse.persistence</groupId>
-			<artifactId>javax.persistence</artifactId>
-			<version>2.1.0</version>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-core</artifactId>
+			<version>5.6.15.Final</version>
 		</dependency>
+
+		<!-- JPA API -->
 		<dependency>
-			<groupId>javax.transaction</groupId>
-			<artifactId>jta</artifactId>
-			<version>1.1</version>
+			<groupId>javax.persistence</groupId>
+			<artifactId>javax.persistence-api</artifactId>
+			<version>2.2</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/net.bytebuddy/byte-buddy-agent -->
@@ -129,13 +121,13 @@
 			<artifactId>byte-buddy</artifactId>
 			<version>1.10.10</version>
 		</dependency>
+		
 		<!-- https://mvnrepository.com/artifact/org.objenesis/objenesis-tck -->
 		<dependency>
 			<groupId>org.objenesis</groupId>
 			<artifactId>objenesis-tck</artifactId>
 			<version>3.0.1</version>
 		</dependency>
-
 
 		<!-- https://mvnrepository.com/artifact/org.mockito/mockito-all -->
 		<dependency>

@@ -9,6 +9,7 @@ import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.ManyToOne;
 import javax.persistence.OneToMany;
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
@@ -28,14 +29,20 @@ public class Erreklamazioa implements Serializable {
 	private Integer erreklamazioZenbaki;
 	private String egoera;
 	private String deskripzioa;
+	@ManyToOne
 	private Bidaiaria nork;
+
+	@ManyToOne  
 	private Driver nori;
+
+	@ManyToOne
 	private Admin admin;
+
+	@ManyToOne
 	private Erreserba erreserba;
 
-	@XmlIDREF
-	@OneToMany(fetch=FetchType.EAGER, cascade=CascadeType.PERSIST) 
-	private List<Mezua> mezuak=new Vector<Mezua>();
+	@OneToMany(fetch=FetchType.LAZY, cascade=CascadeType.ALL) 
+	private List<Mezua> mezuak = new Vector<Mezua>();
 
 	
 	
@@ -133,5 +140,7 @@ public class Erreklamazioa implements Serializable {
 	public float getErreserbarenDiruIzoztua() {
 		return erreserba.getDiruIzoztua();
 	}
+	
+	
 
 }

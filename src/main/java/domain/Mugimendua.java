@@ -5,6 +5,7 @@ import java.io.Serializable;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.ManyToOne;
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlID;
@@ -23,8 +24,9 @@ public class Mugimendua implements Serializable {
 	private Integer mugimenduZenbaki;
 	// private float dirua;			KENDU
 	private String deskripzioa;
-	private User user;
 	
+	@ManyToOne
+	private User user;
 	
 	
 	public Mugimendua() {

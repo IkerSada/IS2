@@ -22,8 +22,7 @@ public class Admin {
 	private String email;
 	private String pasahitza;
 
-	@XmlIDREF
-	@OneToMany(fetch=FetchType.EAGER, cascade=CascadeType.PERSIST)
+	@OneToMany(fetch=FetchType.LAZY, cascade=CascadeType.ALL)
 	private List<Erreklamazioa> jasotakoErreklamazioak = new ArrayList<Erreklamazioa>();
 
 

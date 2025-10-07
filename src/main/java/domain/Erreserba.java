@@ -19,13 +19,19 @@ public class Erreserba implements Serializable {
     @GeneratedValue
     private Integer bookNumber;
     private int nPlaces;
-	private Ride bidaia;
+    @ManyToOne
+    private Ride bidaia;
+
+    @ManyToOne
     private Bidaiaria traveler;
+
+    @ManyToOne
+    private Erreklamazioa erreklamazioa;
     private String egoera;		
     private float diruIzoztua;  
     private boolean baloratutaBidaiari; 		// GEHITU
     private boolean baloratutaGidari; 			// GEHITU
-    private Erreklamazioa erreklamazioa; 		// GEHITU 
+ 		// GEHITU 
 
     
     

@@ -9,7 +9,6 @@ import javax.persistence.*;
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlID;
-import javax.xml.bind.annotation.XmlIDREF;
 import javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter;
 
 
@@ -22,17 +21,25 @@ public class Ride implements Serializable {
 	@XmlJavaTypeAdapter(IntegerAdapter.class)
 	@GeneratedValue
 	private Integer rideNumber;
+	
+	// CAMBIO: Usar nombres que no sean palabras reservadas de SQL
+	@Column(name = "from_location")
 	private String from;
+	
+	@Column(name = "to_location")  
 	private String to;
+	
 	private int nPlaces;
 	private Date date;
 	private float price;
-	private Driver driver;  
+	
+	@ManyToOne
+	private Driver driver;
 	private String egoera;	
 	private boolean baloratuta; 		// GEHITU
 
-	@XmlIDREF
-	@OneToMany(fetch=FetchType.EAGER, cascade={CascadeType.PERSIST, CascadeType.MERGE})			// ALDATUA
+	// CAMBIO: Eliminar @XmlIDREF y cambiar cascade
+	@OneToMany(fetch=FetchType.LAZY, cascade=CascadeType.ALL)
 	private List<Erreserba> erreserbak=new Vector<Erreserba>();
 
 

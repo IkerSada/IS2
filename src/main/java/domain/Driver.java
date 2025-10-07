@@ -15,17 +15,14 @@ import javax.xml.bind.annotation.XmlIDREF;
 public class Driver extends User implements Serializable {
 
 	private static final long serialVersionUID = 1L;
-	@XmlIDREF
-	@OneToMany(fetch=FetchType.EAGER, cascade=CascadeType.PERSIST)
-	private List<Ride> rides=new Vector<Ride>();
+	@OneToMany(fetch=FetchType.LAZY, cascade=CascadeType.ALL)
+	private List<Ride> rides = new Vector<Ride>();
 
-	@XmlIDREF
-	@OneToMany(fetch=FetchType.EAGER, cascade=CascadeType.PERSIST) 
-	private List<Kotxea> kotxeak=new Vector<Kotxea>();		
+	@OneToMany(fetch=FetchType.LAZY, cascade=CascadeType.ALL) 
+	private List<Kotxea> kotxeak = new Vector<Kotxea>();
 
-	@XmlIDREF
-	@OneToMany(fetch=FetchType.EAGER, cascade=CascadeType.PERSIST)  
-	private List<Erreklamazioa> jasotakoErreklamazioak=new Vector<Erreklamazioa>();		// GEHITU
+	@OneToMany(fetch=FetchType.LAZY, cascade=CascadeType.ALL)  
+	private List<Erreklamazioa> jasotakoErreklamazioak = new Vector<Erreklamazioa>();
 
 
 

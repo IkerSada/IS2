@@ -6,6 +6,7 @@ import java.util.Date;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.ManyToOne;
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlID;
@@ -25,6 +26,7 @@ public class Alerta implements Serializable {
 	private String nora;
 	private Date data;
 	private boolean abisatuta;
+	@ManyToOne
 	private Bidaiaria bidaiari;
 	
 	
@@ -44,11 +46,11 @@ public class Alerta implements Serializable {
 	
 	
 	public Integer getAlertazbk() {
-		return Alertazbk;
+		return alertazbk;
 	}
 
 	public void setAlertazbk(Integer alertazbk) {
-		Alertazbk = alertazbk;
+		this.alertazbk = alertazbk;
 	}
 
 	public String getNondik() {

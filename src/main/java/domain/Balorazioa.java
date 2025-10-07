@@ -21,6 +21,7 @@ public class Balorazioa implements Serializable {
     private Integer balorazioZenbaki;
 	private Integer puntuazioa;
 	private String deskripzioa;
+	@ManyToOne
 	private User user;
 	
 	

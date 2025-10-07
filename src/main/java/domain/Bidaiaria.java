@@ -22,17 +22,14 @@ public class Bidaiaria extends User implements Serializable {
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
-	@XmlIDREF
-	@OneToMany(fetch=FetchType.EAGER, cascade=CascadeType.PERSIST)
-	private List<Erreserba> erreserbak=new Vector<Erreserba>();
+	@OneToMany(fetch=FetchType.LAZY, cascade=CascadeType.ALL)
+	private List<Erreserba> erreserbak = new Vector<Erreserba>();
 
-	@XmlIDREF
-	@OneToMany(fetch=FetchType.EAGER, cascade=CascadeType.PERSIST) 
-	private List<Alerta> alertak=new Vector<Alerta>();		// GEHITU
+	@OneToMany(fetch=FetchType.LAZY, cascade=CascadeType.ALL) 
+	private List<Alerta> alertak = new Vector<Alerta>();
 
-	@XmlIDREF
-	@OneToMany(fetch=FetchType.EAGER, cascade=CascadeType.PERSIST) 
-	private List<Erreklamazioa> bidalitakoErreklamazioak =new Vector<Erreklamazioa>();		// GEHITU
+	@OneToMany(fetch=FetchType.LAZY, cascade=CascadeType.ALL) 
+	private List<Erreklamazioa> bidalitakoErreklamazioak = new Vector<Erreklamazioa>();
 
 
 

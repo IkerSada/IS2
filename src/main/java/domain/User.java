@@ -8,6 +8,8 @@ import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
 import javax.persistence.Id;
+import javax.persistence.Inheritance;
+import javax.persistence.InheritanceType;
 import javax.persistence.OneToMany;
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
@@ -18,6 +20,7 @@ import javax.xml.bind.annotation.XmlSeeAlso;
 @XmlSeeAlso ({Bidaiaria.class, Driver.class})		
 @XmlAccessorType(XmlAccessType.FIELD)
 @Entity
+@Inheritance(strategy = InheritanceType.TABLE_PER_CLASS)
 public abstract class User {
 	private static final long serialVersionUID = 1L;
 	private String izena; 
@@ -30,12 +33,10 @@ public abstract class User {
 	private String pasahitza;
 	private float dirua;
 	
-	@XmlIDREF
-	@OneToMany(fetch=FetchType.EAGER, cascade=CascadeType.PERSIST)
+	@OneToMany(fetch=FetchType.LAZY, cascade=CascadeType.ALL)
 	private List<Mugimendua> mugimenduak=new Vector<Mugimendua>();	 
 		
-	@XmlIDREF
-	@OneToMany(fetch=FetchType.EAGER, cascade=CascadeType.PERSIST)
+	@OneToMany(fetch=FetchType.LAZY, cascade=CascadeType.ALL)
 	private List<Balorazioa> balorazioak=new Vector<Balorazioa>(); 	// GEHITU
 	
 
