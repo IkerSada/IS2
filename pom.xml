@@ -39,10 +39,10 @@
 	<properties>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
-		<sonar.organization>jononekin</sonar.organization>
+		<sonar.organization>ikersada2</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.projectKey>jononekin_monopoly-euskara</sonar.projectKey>
-		<sonar.login>69f0b261f26fe8390be129e064c0bf84e7a4c3b1</sonar.login>
+		<sonar.projectKey>ikersada2_is2part1</sonar.projectKey>
+		<sonar.login>2e6fa2f66cb0377f2b150f0e4774af51145e63e9</sonar.login>
 	</properties>
 
 	<dependencies>
